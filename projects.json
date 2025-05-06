@@ -7,7 +7,11 @@
         "image": "photoProjet/casseBrique.png",
         "technologies": ["C", "SDL", "Algorithmique"],
         "colorClass": "projcard-blue",
-        "video" : "videoProjet/projet1.",
+       "images": [
+    "https://picsum.photos/id/1018/800/500",
+    "https://picsum.photos/id/1025/800/500",
+    "https://picsum.photos/id/1039/800/500"
+  ],
         "githubUrl" : "https://github.com/konchu974/Brick-Breaker"
       },
       {
@@ -17,7 +21,11 @@
         "image": "photoProjet/biblioCasseBrique.png",
         "technologies": ["PHP", "HTML", "CSS", "PHP My Admin", "SQL"],
         "colorClass": "projcard-orange",
-         "video" : "videoProjet/projet2.",
+         "images": [
+    "https://picsum.photos/id/1018/800/500",
+    "https://picsum.photos/id/1025/800/500",
+    "https://picsum.photos/id/1039/800/500"
+  ],
         "githubUrl" : "https://github.com/konchu974/site_cassebrique"
       },{
         "title": "Application POS en React Native",
@@ -26,7 +34,11 @@
         "image": "photoProjet/posPhoto.png",
         "technologies": ["React Native", "Figma", "MySQL", "API"],
         "colorClass": "projcard-blue",
-         "video" : "videoProjet/projet3.",
+         "images": [
+    "photoProjet/morepos/mainpage.png",
+    "photoProjet/morepos/pagecommande.png",
+    "photoProjet/morepos/pageemploye.png"
+  ],
         "githubUrl" : ""
       },
       {
@@ -36,7 +48,11 @@
         "image": "photoProjet/landingPage.png",
         "technologies": ["HTML","CSS", "JavaScript"],
         "colorClass": "projcard-orange",
-         "video" : "videoProjet/projet4.",
+         "images": [
+    "https://picsum.photos/id/1018/800/500",
+    "https://picsum.photos/id/1025/800/500",
+    "https://picsum.photos/id/1039/800/500"
+  ],
         "githubUrl" : "https://github.com/konchu974/landing-page"
       }
     
