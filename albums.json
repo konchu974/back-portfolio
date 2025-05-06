@@ -1,0 +1,34 @@
+{
+    "albums": [
+        {
+            "name": "Album B&W",
+            "id": "albumB&W",
+            "photos": [
+                "albumB&W/B&W3.jpg",
+                "albumB&W/B&W4.jpg",
+                "albumB&W/B&W5.jpg",
+                "albumB&W/B&W6.jpg"
+            ]
+        },
+        {
+            "name": "Album Model",
+            "id": "albummodel",
+            "photos": [
+                "albummodel/model1.jpg",
+                "albummodel/model2.jpg",
+                "albummodel/model3.jpg",
+                "albummodel/model4.jpg"
+            ]
+        },
+        {
+            "name": "Album Urbain",
+            "id": "albumurb",
+            "photos": [
+                "albumurb/urb2.jpg",
+                "albumurb/urb3.jpg",
+                "albumurb/urb4.jpg",
+                "albumurb/urb5.jpg"
+            ]
+        }
+    ]
+}

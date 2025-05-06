@@ -1,0 +1,45 @@
+{
+    "projects": [
+      {
+        "title": "Jeu de Casse-Briques en C",
+        "subtitle": "Un jeu pour comprendre les bases de l'algorithmique en C",
+        "description": "Jeu de casse-briques réalisé en C pour apprendre les bases de l'algorithmique et de la gestion des entrées/sorties. Le projet inclut la gestion des collisions, de l'affichage graphique avec SDL, ainsi que des scores et niveaux.",
+        "image": "https://picsum.photos/800/600?image=1027",
+        "technologies": ["C", "SDL", "Algorithmique"],
+        "colorClass": "projcard-blue",
+        "video" : "videoProjet/projet1.",
+        "githubUrl" : "https://github.com/konchu974/Brick-Breaker"
+      },
+      {
+        "title": "Bibliothèque de jeux Casse-Briques",
+        "subtitle": "Projet scolaire en développement web",
+        "description": "Ce projet en PHP présente une bibliothèque de jeux de type casse-briques, avec une gestion dynamique du contenu via PHP, HTML et CSS. Une base de données MySQL a été utilisée pour stocker les informations des jeux, permettant aux utilisateurs de consulter, ajouter et modifier les jeux dans la bibliothèque.",
+        "image": "https://picsum.photos/800/600?image=943",
+        "technologies": ["PHP", "HTML", "CSS", "PHP My Admin", "SQL"],
+        "colorClass": "projcard-orange",
+         "video" : "videoProjet/projet2.",
+        "githubUrl" : "https://github.com/konchu974/site_cassebrique"
+      },{
+        "title": "Application POS en React Native",
+        "subtitle": "Gestion des commandes, de la carte et du  plan de restaurant",
+        "description": "Développement d'une application POS en React Native pour gérer les commandes, le plan de salle et les paiements. Conception UI/UX via Figma pour optimiser l'expérience utilisateur et intégration d'une base de données MySQL via API pour la mise à jour en temps réel.",
+        "image": "https://picsum.photos/800/600?image=1045",
+        "technologies": ["React Native", "Figma", "MySQL", "API"],
+        "colorClass": "projcard-blue",
+         "video" : "videoProjet/projet3.",
+        "githubUrl" : ""
+      },
+      {
+        "title": "Landing Page",
+        "subtitle": "Prototype de page d’accueil statique",
+        "description": "Ce projet est une simple landing page créée pour me remettre dans le code HTML, CSS et JavaScript. L'objectif est de revoir les bases, améliorer mes compétences en intégration web et expérimenter avec des animations et des interactions.",
+        "image": "https://picsum.photos/800/600?image=943",
+        "technologies": ["HTML","CSS", "JavaScript"],
+        "colorClass": "projcard-orange",
+         "video" : "videoProjet/projet4.",
+        "githubUrl" : "https://github.com/konchu974/landing-page"
+      }
+    
+    ]
+  }
+  
