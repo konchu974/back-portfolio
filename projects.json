@@ -8,9 +8,9 @@
         "technologies": ["C", "SDL", "Algorithmique"],
         "colorClass": "projcard-blue",
        "images": [
-    "https://picsum.photos/id/1018/800/500",
-    "https://picsum.photos/id/1025/800/500",
-    "https://picsum.photos/id/1039/800/500"
+    "photoProjet/morecassebrique/jeux.png",
+    "photoProjet/morecassebrique/doubleballe.png",
+    "photoProjet/morecassebrique/lost.png"
   ],
         "githubUrl" : "https://github.com/konchu974/Brick-Breaker"
       },
@@ -22,9 +22,9 @@
         "technologies": ["PHP", "HTML", "CSS", "PHP My Admin", "SQL"],
         "colorClass": "projcard-orange",
          "images": [
-    "https://picsum.photos/id/1018/800/500",
-    "https://picsum.photos/id/1025/800/500",
-    "https://picsum.photos/id/1039/800/500"
+    "photoProjet/morebiblio/mainbibli.png",
+    "photoProjet/morebiblio/scoreboard.png",
+    "photoProjet/morebiblio/aboutbibli.png"
   ],
         "githubUrl" : "https://github.com/konchu974/site_cassebrique"
       },{
@@ -49,9 +49,7 @@
         "technologies": ["HTML","CSS", "JavaScript"],
         "colorClass": "projcard-orange",
          "images": [
-    "https://picsum.photos/id/1018/800/500",
-    "https://picsum.photos/id/1025/800/500",
-    "https://picsum.photos/id/1039/800/500"
+    "photoProjet/morelanding/mainlanding.png"
   ],
         "githubUrl" : "https://github.com/konchu974/landing-page"
       }
